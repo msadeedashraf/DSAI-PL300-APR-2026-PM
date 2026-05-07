@@ -35,4 +35,6 @@
 
 [](https://learn.microsoft.com/en-us/dax/)
 
-[](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#eight-original-samples)
+[Sample Datasets](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#eight-original-samples)
+
+[Connecting to the Samples](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-tutorial-connect-to-the-samples)
